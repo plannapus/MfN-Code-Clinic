@@ -6,15 +6,15 @@ Attendance: 11
 
 2. Presentation of attendants. 11 attendants with the following breakdowns:
 	- Programming Language:
-		R 		10 (inc. 5 advanced users)
-		SQL	 	3
-		Python	2
-		LaTeX	2
-		Matlab	1
-		VBA		1
+		* R 		10 (inc. 5 advanced users)
+		* SQL	 	3
+		* Python	2
+		* LaTeX	2
+		* Matlab	1
+		* VBA		1
 	- Forschungsbereich:
-		FB1		8
-		FB3		3
+		* FB1		8
+		* FB3		3
 	- 5 out of 11 attendants were doctoral students.
 Interests of the group covered a wide variety of subjects: geometric morphometry, phylogenetic analyses, data managing, data mining, spatial analysis, ...
 
