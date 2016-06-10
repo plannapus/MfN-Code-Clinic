@@ -1,5 +1,5 @@
 12th meeting of the 'Code Clinic' programming club - 9th May 2016
-------------------------------------------------------------------
+----
 Attendance: 8
 
 Brandon introduced package 'bayou' which fits Ornstein-Uhlenbeck models to phylogenetic data using Bayesian inference. As this package is still very new, there was several issues with it, including the fact that the branches numbers did not correspond to the order of element `edge` from the original 'ape'-style tree.
