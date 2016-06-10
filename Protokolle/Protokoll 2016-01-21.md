@@ -1,4 +1,4 @@
-4th meeting of the 'Code Clinic' programming club - 21 january 2016
+4th meeting - 21 january 2016
 -----
 
 Attendance: 6

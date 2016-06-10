@@ -1,4 +1,4 @@
-1st meeting of the 'Code Clinic' programming club - 24 November 2015
+1st meeting - 24 November 2015
 ----
 Attendance: 11
 

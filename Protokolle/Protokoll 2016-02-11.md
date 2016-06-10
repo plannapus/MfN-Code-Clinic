@@ -1,4 +1,4 @@
-5th meeting of the 'Code Clinic' programming club - 11 february 2016
+5th meeting - 11 february 2016
 -----
 
 Attendance: 5

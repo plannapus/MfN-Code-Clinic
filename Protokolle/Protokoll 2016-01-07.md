@@ -1,12 +1,12 @@
-3rd meeting of the 'Code Clinic' programming club - 7 january 2016
+3rd meeting - 7 january 2016
 ----
 
 Attendance: 7
 
 This meeting was spent reviewing a bit of Simon's code. The code dugged from a database a 400k row dataframe of the form:
 
-event | station_id | timestamp
-------+------------+----------
+     event | station_id | timestamp
+     ------+------------+----------
 
 and the task was to measure the time lag between each serie of events at each station.
 The code thus needed to loop through each station, and then proceeded to loop through each row of the subsetted dataframe to measure the lag between each row timestamp.

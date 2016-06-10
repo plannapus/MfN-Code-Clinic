@@ -1,4 +1,4 @@
-2nd meeting of the 'Code Clinic' programming club - 9 december 2015
+2nd meeting - 9 december 2015
 ----
 
 Attendance: 9

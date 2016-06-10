@@ -1,4 +1,4 @@
-10th meeting of the 'Code Clinic' programming club - 4th May 2016
+10th meeting - 4th May 2016
 ----
 
 Attendance: 7
