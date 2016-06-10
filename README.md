@@ -1,4 +1,4 @@
-# Museum für Naturkunde's 'Code Clinic' Programming Club
+## Museum für Naturkunde's 'Code Clinic' Programming Club
 
 Repository to store meeting's reports, code, etc.  
 
