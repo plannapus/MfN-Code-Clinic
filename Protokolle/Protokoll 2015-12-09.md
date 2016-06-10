@@ -1,5 +1,6 @@
 2nd meeting of the 'Code Clinic' programming club - 9 december 2015
----------------------------------------------------------------------------------------------
+----
+
 Attendance: 9
 
 While waiting for me to connect unsuccessfully my computer to the projector from the seminar room, Maren gave a bunch of tips on "how to find and get help in R". Here is a short version of what she said:

@@ -1,5 +1,6 @@
 6th meeting of the 'Code Clinic' programming club - 25 february 2016
----------------------------------------------------------------------------------------------
+----
+
 Attendance: 8
 
 Sascha introduced Jupyter notebook to us, which is an interactive "notebook" environment that allow you to insert code (R, Python, Matlab, ...) and insert the output of the code in the middle of markdown-formatted text in order to produce quickly fully-reproducible reports. This project evoked us with somewhat similar projects such as knitr and RMarkdown, that we thus planned to discuss during next meeting (as nobody brought the necessary material to discuss them).

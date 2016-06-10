@@ -1,5 +1,6 @@
 5th meeting of the 'Code Clinic' programming club - 11 february 2016
----------------------------------------------------------------------------------------------
+-----
+
 Attendance: 5
 
 Martin came with an issue dealing with ggplot2. The particular issue was with having two plots side by side sharing an y-axis (as one of them with a stratigraphic log and the other geochemical data in the corresponding section). 

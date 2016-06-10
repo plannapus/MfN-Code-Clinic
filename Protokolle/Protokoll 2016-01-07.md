@@ -1,5 +1,6 @@
 3rd meeting of the 'Code Clinic' programming club - 7 january 2016
----------------------------------------------------------------------------------------------
+----
+
 Attendance: 7
 
 This meeting was spent reviewing a bit of Simon's code. The code dugged from a database a 400k row dataframe of the form:

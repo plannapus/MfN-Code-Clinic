@@ -1,5 +1,5 @@
 1st meeting of the 'Code Clinic' programming club - 24 November 2015
-----------------------------------------------------------------------------------------------
+----
 Attendance: 11
 
 1. Introductory remark by two of the initiators of the club, stating its primary purposes: providing help with programming (debugging, but also help with basic implementation, tips on specific aspect of programming) and brainstorming algorithms and more generally methodologies.

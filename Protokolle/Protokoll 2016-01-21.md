@@ -1,5 +1,6 @@
 4th meeting of the 'Code Clinic' programming club - 21 january 2016
----------------------------------------------------------------------------------------------
+-----
+
 Attendance: 6
 
 This meeting was spent debugging Melanie's code. First issue was with a new package doing bayesian analysis and using a just-in-time compiler, but throwing an error doing compiling, primarily because RStudio didn't find the path to Rtools and its compilers. Prior to this, on other machines, the package itself refused to compile. This sparked a conversation on package management and installation, but also on the need to limit the use of dependencies in packages to keep the code manageable over the years.

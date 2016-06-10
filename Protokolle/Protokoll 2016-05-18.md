@@ -1,5 +1,6 @@
 11th meeting of the 'Code Clinic' programming club - 18th May 2016
-------------------------------------------------------------------
+----
+
 Attendance: 6
 
 Neil gave a short course of time calibration and ancestral character estimation using R and packages ape, phytools and paleotree. Code attached.
