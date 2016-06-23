@@ -12,4 +12,4 @@ Feel free to add a theme you want to see discussed during a future meeting in th
 
 ### Next meeting
 
-23th of June, 4pm, room 3330.
+To be determined.
