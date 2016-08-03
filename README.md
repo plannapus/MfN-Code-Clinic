@@ -12,4 +12,4 @@ Feel free to add a theme you want to see discussed during a future meeting in th
 
 ### Next meeting
 
-14th of July, at 4pm.
+17th of August, at 3pm, after Journal Club.

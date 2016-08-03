@@ -1,4 +1,4 @@
-12th meeting - 9th May 2016
+12th meeting - 9th June 2016
 ----
 Attendance: 8
 
