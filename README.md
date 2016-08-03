@@ -12,4 +12,8 @@ Feel free to add a theme you want to see discussed during a future meeting in th
 
 ### Next meeting
 
+<<<<<<< HEAD
 17th of August, at 3pm, after Journal Club.
+=======
+Postponed until further notice.
+>>>>>>> origin/master
