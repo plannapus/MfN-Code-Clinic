@@ -604,3 +604,60 @@ $`8`
 
 Warning message:
 In cor(x$mpg, x$disp) : the standard deviation is zero
+
+#####Edit 5th of August:
+#Or more straight-forward:
+> lapply(split(mtcars, interaction(mtcars$carb, mtcars$gear)),function(x)cor(x$disp,x$mpg))
+$`1.3`
+[1] -0.3128988
+
+$`2.3`
+[1] 0.9556646
+
+$`3.3`
+[1] NA
+
+$`4.3`
+[1] -0.6492474
+
+$`6.3`
+[1] NA
+
+$`8.3`
+[1] NA
+
+$`1.4`
+[1] -0.8963193
+
+$`2.4`
+[1] -0.7940624
+
+$`3.4`
+[1] NA
+
+$`4.4`
+[1] -0.92976
+
+$`6.4`
+[1] NA
+
+$`8.4`
+[1] NA
+
+$`1.5`
+[1] NA
+
+$`2.5`
+[1] -1
+
+$`3.5`
+[1] NA
+
+$`4.5`
+[1] NA
+
+$`6.5`
+[1] NA
+
+$`8.5`
+[1] NA
