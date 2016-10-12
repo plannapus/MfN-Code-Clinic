@@ -12,4 +12,4 @@ Feel free to add a theme you want to see discussed during a future meeting in th
 
 ### Next meeting
 
-12th of October, at 2.30/3.00pm, after Journal Club.
+TBD
