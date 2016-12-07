@@ -1,0 +1,19 @@
+Date,Attendance,Presenters,Theme
+2015-11-24,11,Sonny; Johan,Introduction to the club
+2015-12-09,9,Johan; Maren,Web Scraping; Getting help with R
+2016-01-07,7,Simon,Code Review; For Loops
+2016-01-21,6,Melanie,Code Review; Package Management
+2016-02-11,5,Martin,Debugging; ggplot2 layouts
+2016-02-25,8,Sascha,Jupyter notebooks
+2016-03-03,8,Johan; Sebastian,Basics of GIS with R
+2016-03-31,4,Melanie,Rmarkdown and knitr
+2016-04-21,8,Johan,package ape
+2016-05-04,7,Sebastian,Code Review; looping through files
+2016-05-18,6,Neil,time calibration and ancestral character estimation
+2016-06-09,8,Brandon; Johan,bayou; simulated phylogenies and ace
+2016-06-23,3,-,cancelled
+2016-08-03,6,Johan,The apply function family
+2016-09-28,5,Sebastian; Johan,Writing functions (basis)
+2016-10-12,6,Johan,Introduction to Python
+2016-11-02,5,Melanie,git 101
+2016-12-07,6,Sascha; Falk; Johan,git 102; connecting to databases with R and python
