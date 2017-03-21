@@ -12,4 +12,4 @@ Feel free to add a theme you want to see discussed during a future meeting in th
 
 ### Next meeting
 
-TBA
+29-03-2017
