@@ -1,6 +1,6 @@
 Date,Attendance,Presenters,Theme
-2015-11-24,11,Sonny; Johan,Introduction to the club
-2015-12-09,9,Johan; Maren,Web Scraping; Getting help with R
+2015-11-24,11,"Sonny, Johan",Introduction to the club
+2015-12-09,9,"Johan, Maren",Web Scraping; Getting help with R
 2016-01-07,7,Simon,Code Review: For Loops
 2016-01-21,6,Melanie,Code Review: Package Management
 2016-02-11,5,Martin,Debugging: ggplot2 layouts
@@ -8,7 +8,7 @@ Date,Attendance,Presenters,Theme
 2016-03-03,8,Johan; Sebastian,Basics of GIS with R
 2016-03-31,4,Melanie,Rmarkdown and knitr
 2016-04-21,8,Johan,package ape
-2016-05-04,7,Sebastian,Code Review; looping through files
+2016-05-04,7,Sebastian,Code Review: looping through files
 2016-05-18,6,Neil,time calibration and ancestral character estimation
 2016-06-09,8,Brandon; Johan,"bayou, simulated phylogenies and ace"
 2016-06-23,3,-,cancelled
@@ -17,11 +17,11 @@ Date,Attendance,Presenters,Theme
 2016-09-28,5,Sebastian; Johan,Writing functions (basis)
 2016-10-12,6,Johan,Introduction to Python
 2016-11-02,5,Melanie,git 101
-2016-12-07,6,Sascha; Falk; Johan,git 102; connecting to databases with R and python
-2017-01-11,5,Falk;Johan,Object Oriented Programming in python and in R
+2016-12-07,6,"Sascha, Falk"; Johan,git 102; connecting to databases with R and python
+2017-01-11,5,"Falk, Johan",Object Oriented Programming in python and in R
 2017-02-01,6,–, Discussion on next meeting and on future of club.
 2017-02-15,12,Falko,German law compliant tools & services provided by the MfN and the DFN
 2017-03-01,6,Neil,Review of Soul & Friedman 2017 code
-2017-03-15,5,Maren; Neil,Hedman algorithm for time calibration of phylogenies
+2017-03-15,5,"Maren, Neil",Hedman algorithm for time calibration of phylogenies
 2017-03-28,1,-,cancelled
-2017-04-26,4,Falk; Johan,Graphical parameters in matplolib
+2017-04-26,4,"Falk, Johan",Graphical parameters in matplolib
