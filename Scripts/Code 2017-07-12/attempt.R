@@ -3,8 +3,8 @@ library(reshape)
 library(igraph)
 library(rgdal)
 
-setwd("Rojas et al 2017")
-albian <- read.xls("~/Desktop/Rojas et al 2017/2017213_Table DR1.xlsx",check.names=FALSE,row.names=1,skip=1,sheet=1)
+#setwd("Rojas et al 2017")
+albian <- read.xls("2017213_Table DR1.xlsx",check.names=FALSE,row.names=1,skip=1,sheet=1)
 
 longitude <- albian[1,]
 latitude <- albian[2,]
