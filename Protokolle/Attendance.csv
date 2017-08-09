@@ -1,34 +1,34 @@
 Date,Attendance,Theme,Room
-2015-11-24,11,Introduction to the club,Paläontologie seminar room
-2015-12-09,9,Web Scraping; Getting help with R,Room 3330
+2015-11-24,11,General discussion: Introduction to the club,Paläontologie seminar room
+2015-12-09,9,Crash Course: Web Scraping; Getting help with R,Room 3330
 2016-01-07,7,Code Review: For Loops,Room 3330
 2016-01-21,6,Code Review: Package Management,Room 3330
 2016-02-11,5,Debugging: ggplot2 layouts,Room 3330
-2016-02-25,8,Jupyter notebooks,Room 3330
-2016-03-03,8,Basics of GIS with R,Room 3330
-2016-03-31,4,Rmarkdown and knitr,Room 3330
-2016-04-21,8,package ape,Room 3330
+2016-02-25,8,General discussion: Jupyter notebooks,Room 3330
+2016-03-03,8,Crash Course: Basics of GIS with R,Room 3330
+2016-03-31,4,Crash Course: Rmarkdown and knitr,Room 3330
+2016-04-21,8,Crash Course: package ape,Room 3330
 2016-05-04,7,Code Review: looping through files,Room 3330
-2016-05-18,6,time calibration and ancestral character estimation,Room 3330
-2016-06-09,8,"bayou, simulated phylogenies and ace",Room 3330
+2016-05-18,6,Crash Course: time calibration and ancestral character estimation,Room 3330
+2016-06-09,8,"Debugging/Code Review: bayou, simulated phylogenies and ace",Room 3330
 2016-06-23,3,cancelled,Room 3330
 2016-07-14,4,cancelled,Room 3330
-2016-08-03,6,The apply function family,Room 3330
-2016-09-28,5,Writing functions (basis),Room 3330
-2016-10-12,6,Introduction to Python,Room 3330
-2016-11-02,5,git 101,Room 3330
-2016-12-07,6,"git 102, connecting to databases with R and python",Room 3330
-2017-01-11,5,Object Oriented Programming in python and in R,Room 3330
-2017-02-01,6,Discussion on next meeting and on future of club.,Room 3330
+2016-08-03,6,Crash Course: The apply function family,Room 3330
+2016-09-28,5,Crash Course: Writing functions (basis),Room 3330
+2016-10-12,6,Crash Course: Introduction to Python,Room 3330
+2016-11-02,5,Crash Course: git 101,Room 3330
+2016-12-07,6,"Crash Course: git 102, connecting to databases with R and python",Room 3330
+2017-01-11,5,Crash Course: Object Oriented Programming in python and in R,Room 3330
+2017-02-01,6,General discussion: Discussion on next meeting and on future of club.,Room 3330
 2017-02-15,12,German law compliant tools & services provided by the MfN and the DFN,Room 3330
-2017-03-01,6,Review of Soul & Friedman 2017 code,Room 3330
-2017-03-15,5,Hedman algorithm for time calibration of phylogenies,Room 3330
+2017-03-01,6,Code Review: Review of Soul & Friedman 2017 code,Room 3330
+2017-03-15,5,Code Review: Hedman algorithm for time calibration of phylogenies,Room 3330
 2017-03-28,1,cancelled,Room 3330
-2017-04-26,4,Graphical parameters in matplolib,Room 3330
-2017-05-10,4,gstudio,FB4 seminar room
+2017-04-26,4,General discussion: Graphical parameters in matplolib,Room 3330
+2017-05-10,4,General discussion: gstudio,FB4 seminar room
 2017-05-24,4,cancelled,Room Z1108
-2017-06-01,5,"Various tips and tricks to write faster, more memory-efficient code (in R mostly)",Room Z1108
+2017-06-01,5,"Crash Course: Various tips and tricks to write faster, more memory-efficient code (in R mostly)",Room Z1108
 2017-06-28,3,cancelled,Room Z1108
-2017-07-05,5,package lme4; model selection.,Zoology seminar room
-2017-07-12,4,Reproducing Rojas et al 2017; package igraph,Zoology seminar room
-2017-07-26,6,geom_smooth; split-apply-combine, Zoology seminar room
+2017-07-05,5,General discussion: package lme4; model selection.,Zoology seminar room
+2017-07-12,4,Code Review: Reproducing Rojas et al 2017; package igraph,Zoology seminar room
+2017-07-26,6,Debugging/General Discussion: geom_smooth; split-apply-combine, Zoology seminar room
