@@ -100,3 +100,11 @@ k1 <- a$x[k$cluster==1,1:2]
 k2 <- a$x[k$cluster==2,1:2]
 polygon(k1[chull(k1),])
 polygon(k2[chull(k2),], border="red")
+
+#You can also fit a surface to an ordination space using "ordisurf",
+#predict the ordination score of an additional sample using "predict", etc.
+
+# In an NMDS remember to not use a standard anova or manova (implemented in R as "aov"), 
+# but a permanova (as NMDS non-metric, centroids are meaningless): implemented in R as "adonis".
+
+
