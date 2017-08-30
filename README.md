@@ -12,4 +12,4 @@ Feel free to add a theme you want to see discussed during a future meeting in th
 
 ### Next meeting
 
-23-08-2017, in zoological seminar room.
+13-09-2017, in zoological seminar room.
