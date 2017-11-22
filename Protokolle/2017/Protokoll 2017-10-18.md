@@ -1,4 +1,4 @@
-33nd Meeting - 18th of October 2017
+33rd Meeting - 18th of October 2017
 ----
 Attendance: 4
 
