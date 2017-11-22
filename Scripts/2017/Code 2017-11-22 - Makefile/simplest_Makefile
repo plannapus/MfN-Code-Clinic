@@ -1,0 +1,5 @@
+paleocene.pdf: paleocene.bib paleocene.tex
+	pdflatex paleocene
+	bibtex paleocene
+	pdflatex paleocene
+	pdflatex paleocene

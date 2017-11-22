@@ -1,0 +1,19 @@
+all: paleocene.pdf
+
+paleocene.pdf: paleocene.bib paleocene.tex Figures/map1.pdf Figures/Cohort_grey.pdf Figures/count_data.eps Figures/new_div.pdf Plates/*.eps
+	pdflatex paleocene
+	bibtex paleocene
+	pdflatex paleocene
+	pdflatex paleocene
+
+paleocene.tex: Scripts/latexify_rangechart.r Data/flipped\ occurrences.csv
+	Rscript Scripts/latexify_rangechart.r
+
+Figures/Cohort_grey.pdf: Scripts/cohorts.R Data/cohorts.csv Data/flipped\ occurrences.csv
+	Rscript Scripts/cohorts.R
+
+Figures/count_data.eps: Scripts/plot_paleocene.R Data/counts.csv
+	Rscript Scripts/plot_paleocene.R
+
+Figures/new_div.pdf: Scripts/paldiatdiv.R Data/flipped\ occurrences.csv
+	Rscript Scripts/paldiatdiv.R
