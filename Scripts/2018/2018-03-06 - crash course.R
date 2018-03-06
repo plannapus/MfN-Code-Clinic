@@ -51,7 +51,8 @@ chol2inv
 #   <environment: 0x1035f9008>
 #   Methods may be defined for arguments: x
 # Use  showMethods("chol2inv")  for currently available ones.
-# > showMethods("chol2inv")
+
+showMethods("chol2inv")
 # Function: chol2inv (package base)
 # x="ANY"
 # x="CHMfactor"
