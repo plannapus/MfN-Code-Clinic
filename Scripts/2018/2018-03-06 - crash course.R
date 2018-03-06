@@ -6,7 +6,8 @@ t
 #   UseMethod("t")
 # <bytecode: 0x10a520668>
 #   <environment: namespace:base>
-#   > methods(t)
+
+methods(t)
 # [1] t.data.frame t.default    t.ts*       
 #   see '?methods' for accessing help and source code
 
